@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @LiuhuaPsk
-- 👀 I’m interested in Python
-- 🌱 I’m currently learning Python
+- 👀 I’m interested in Python and C#
+- 🌱 I’m currently learning Python and C#
 - 💞️ I’m looking to collaborate on web develop
 - 📫 How to reach me liuhuapsk@me.com
 
